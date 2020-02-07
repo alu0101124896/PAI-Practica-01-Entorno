@@ -58,10 +58,10 @@ $ node -v
 ~~~~    
 
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
-
+## Referencias
 Referencias
-[1] [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
-[2] [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
+[1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
+[2] How to Update Ubuntu packages [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
 [3] [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
 [4] SSH login without password [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
 [5] How to Create an SSH Shortcut [https://scotch.io/tutorials/how-to-create-an-ssh-shortcut](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut)
@@ -73,6 +73,6 @@ Referencias
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njc4NDg0OCwtNTU2NTAwMjcxLDE5ND
+eyJoaXN0b3J5IjpbMTcwNzY2NTg4NSwtNTU2NTAwMjcxLDE5ND
 MxNTk1MzJdfQ==
 -->
