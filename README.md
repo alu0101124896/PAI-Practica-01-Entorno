@@ -39,14 +39,11 @@ $ sudo reboot
 ```
 $ ifconfig -a
 ```
-3.  Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión.
-    
-4.  También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) [5] de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
-    
-
--   $ ssh pai
-    
-
+ 6. Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión.
+ 7. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) [5] de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
+```
+$ ssh pai
+```
 para conectarse a la máquina remota.
 
 6.  Cree una cuenta en [GitHub](https://github.com/) [6], si aún no la tiene. Configure el perfil de su cuenta de modo que incluya una imagen en la que se le reconozca y haga que la cuenta de e-mail asociada sea la dirección institucional.
@@ -67,6 +64,6 @@ para conectarse a la máquina remota.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTgxODAxMywtNTU2NTAwMjcxLDE5ND
+eyJoaXN0b3J5IjpbMTY4OTY4NDkyNCwtNTU2NTAwMjcxLDE5ND
 MxNTk1MzJdfQ==
 -->
