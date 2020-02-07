@@ -55,9 +55,19 @@ $ node -v
 ~~~~    
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
 
+[1] [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
+[2] [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
+[3] [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
+[4] SSH login without password [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+[5] How to Create an SSH Shortcut [https://scotch.io/tutorials/how-to-create-an-ssh-shortcut](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut)
+[6] [https://github.com/](https://github.com/)
+[7] [https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)
+[8] How to Install Node.js on Ubuntu 18.04 [https://www.hostinger.com/tutorials/how-to-install-node-ubuntu](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu)
+[] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE4NDM1MzMsLTU1NjUwMDI3MSwxOT
-QzMTU5NTMyXX0=
+eyJoaXN0b3J5IjpbMTYyMDc3MzIzNywtNTU2NTAwMjcxLDE5ND
+MxNTk1MzJdfQ==
 -->
