@@ -27,21 +27,18 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt autoremove
 ~~~~
--   NO instalar grub
-- 
-    
-
-3.  Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [3] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
-    
-
--   $ sudo vi /etc/hostname
-    
--   $ sudo vi /etc/hosts
-    
-
+No instale `grub`
+4.- Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [3] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
+~~~~
+$ sudo vi /etc/hostname
+$ sudo vi /etc/hosts
+~~~~
 Para que este cambio tenga efecto, ha de reiniciar la máquina:
+```
+$ sudo reboot
+```
 
--   $ sudo reboot
+-   
     
 
 4.  Consulte la dirección IP de la máquina para establecer conexiones directas a la misma a través de ssh desde casa o desde las salas del Centro de Cálculo de la ESIT. Anote esa dirección IP puesto que la máquina conserva esa dirección IP de forma estable.
@@ -78,5 +75,5 @@ para conectarse a la máquina remota.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzE4NzQ4NiwxOTQzMTU5NTMyXX0=
+eyJoaXN0b3J5IjpbMTQ4MDUzODg5OCwxOTQzMTU5NTMyXX0=
 -->
