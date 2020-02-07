@@ -59,7 +59,6 @@ $ node -v
 
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
 ## Referencias
-Referencias
 [1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 
 [2] How to Update Ubuntu packages [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
@@ -78,6 +77,6 @@ Referencias
 
 [9] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODA2Mzg1OSwxMzM4MDYzODU5LC01NT
-Y1MDAyNzEsMTk0MzE1OTUzMl19
+eyJoaXN0b3J5IjpbLTE4NTI5ODEwNTAsMTMzODA2Mzg1OSwtNT
+U2NTAwMjcxLDE5NDMxNTk1MzJdfQ==
 -->
