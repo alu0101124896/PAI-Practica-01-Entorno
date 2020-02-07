@@ -57,7 +57,7 @@ $ sudo apt install npm
 $ node -v
 ~~~~    
 
- 11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
+ 11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. 
 ## Referencias
 [1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 
@@ -77,6 +77,6 @@ $ node -v
 
 [9] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI5ODEwNTAsMTMzODA2Mzg1OSwtNT
-U2NTAwMjcxLDE5NDMxNTk1MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDI3Mzg4MDYsLTE4NTI5ODEwNTAsMT
+MzODA2Mzg1OSwtNTU2NTAwMjcxLDE5NDMxNTk1MzJdfQ==
 -->
