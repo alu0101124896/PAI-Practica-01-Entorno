@@ -12,11 +12,7 @@ This directory is organised as follows:
 ‌El objetivo de esta práctica es preparar y configurar el entorno de trabajo que se utilizará en el resto de prácticas de programación de la asignatura.
 
 Desarrolle secuencialmente cada una de las tareas que se describen en los siguientes puntos, pero ocúpese no solo de “ejecutar comandos” sino de estudiar y entender el significado e implicaciones de cada uno de ellos.
-
-1.
-
- 1. List item
- 2. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) y máquina local al PC del centro de cálculo en el que está trabajando.
+1. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) y máquina local al PC del centro de cálculo en el que está trabajando.
 
 2.- Acceda a la [interfaz web](https://iaas.ull.es/ovirt-engine/) [1] de la plataforma IaaS-ULL y autentifíquese en esa interfaz con sus credenciales (username + password) de la cuenta institucional. Vea el estado de la máquina y arránquela para comenzar a trabajar con ella.
 Tendrá que cambiar el password (que inicialmente es “usuario”) de acceso a esa máquina remota la primera vez que entre en ella. El username será siempre “usuario”.
@@ -72,5 +68,5 @@ para conectarse a la máquina remota.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDgzMTIzMSwxOTQzMTU5NTMyXX0=
+eyJoaXN0b3J5IjpbLTU1NjUwMDI3MSwxOTQzMTU5NTMyXX0=
 -->
