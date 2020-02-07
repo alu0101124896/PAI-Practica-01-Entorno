@@ -58,6 +58,7 @@ $ node -v
 ~~~~    
 
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`.
+ 12. Instale globalmente el paquete [
 
 ## Referencias
 [1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
@@ -77,7 +78,10 @@ $ node -v
 [8] How to Install Node.js on Ubuntu 18.04 [https://www.hostinger.com/tutorials/how-to-install-node-ubuntu](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu)
 
 [9] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+
+[10] readline-sync
+ [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDc4MTc0NCwtMTg1Mjk4MTA1MCwxMz
+eyJoaXN0b3J5IjpbMTg5OTEyOTMxNCwtMTg1Mjk4MTA1MCwxMz
 M4MDYzODU5LC01NTY1MDAyNzEsMTk0MzE1OTUzMl19
 -->
