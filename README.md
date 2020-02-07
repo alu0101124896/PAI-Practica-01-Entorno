@@ -59,7 +59,7 @@ $ node -v
 
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
 
-
+Referencias
 [1] [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 [2] [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
 [3] [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
@@ -73,6 +73,6 @@ $ node -v
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTQ2NzE5LC01NTY1MDAyNzEsMTk0Mz
-E1OTUzMl19
+eyJoaXN0b3J5IjpbMTc0Njc4NDg0OCwtNTU2NTAwMjcxLDE5ND
+MxNTk1MzJdfQ==
 -->
