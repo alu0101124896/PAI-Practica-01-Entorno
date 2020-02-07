@@ -57,8 +57,9 @@ $ sudo apt install npm
 $ node -v
 ~~~~    
 
- 11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`.
- 12. Instale globalmente el paquete [
+ 11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`. Anote entre sus tareas pendientes
+ 12. Instale globalmente el paquete readline-sync [10].
+ 13. 
 
 ## Referencias
 [1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
@@ -79,9 +80,8 @@ $ node -v
 
 [9] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
-[10] readline-sync
- [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
+[10] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTEyOTMxNCwtMTg1Mjk4MTA1MCwxMz
+eyJoaXN0b3J5IjpbLTcwMzI2NzQ5MSwtMTg1Mjk4MTA1MCwxMz
 M4MDYzODU5LC01NTY1MDAyNzEsMTk0MzE1OTUzMl19
 -->
