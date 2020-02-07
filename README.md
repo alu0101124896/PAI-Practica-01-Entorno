@@ -8,10 +8,10 @@ This directory is organised as follows:
       ├── tests        # Source code for tests
       ├── src          # Source code
 
-# PAI-P01-EntornoPAI
-Práctica 1. El entorno de Desarrollo en PAI
+## Práctica 1. El entorno de Desarrollo en PAI
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDExMTc5M119
+eyJoaXN0b3J5IjpbMTk0MzE1OTUzMl19
 -->
