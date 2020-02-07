@@ -26,11 +26,13 @@ $ sudo apt upgrade
 $ sudo apt autoremove
 ~~~~
 No instale `grub`
+
  4. Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [3] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
 ~~~~
 $ sudo vi /etc/hostname
 $ sudo vi /etc/hosts
 ~~~~
+	
 Para que este cambio tenga efecto, ha de reiniciar la máquina:
 ```
 $ sudo reboot
@@ -44,7 +46,6 @@ $ ifconfig -a
 ```
 $ ssh pai
 ```
-
 para conectarse a la máquina remota.
 
  8. Cree una cuenta en [GitHub](https://github.com/) [6], si aún no la tiene. Configure el perfil de su cuenta de modo que incluya una imagen en la que se le reconozca y haga que la cuenta de e-mail asociada sea la dirección institucional.
@@ -55,7 +56,9 @@ $ sudo apt install nodejs
 $ sudo apt install npm
 $ node -v
 ~~~~    
+
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
+
 
 [1] [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 [2] [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
@@ -70,6 +73,6 @@ $ node -v
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQ2NzA0NywtNTU2NTAwMjcxLDE5ND
-MxNTk1MzJdfQ==
+eyJoaXN0b3J5IjpbMTU1OTQ2NzE5LC01NTY1MDAyNzEsMTk0Mz
+E1OTUzMl19
 -->
