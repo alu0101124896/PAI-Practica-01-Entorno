@@ -10,3 +10,6 @@ This directory is organised as follows:
       ├── slides       # LaTeX Beamer template for the slides
       ├── tests        # Source code for tests
       ├── src          # Source code
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwMDQwNzQxMV19
+-->
