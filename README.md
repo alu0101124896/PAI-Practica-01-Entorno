@@ -21,9 +21,62 @@ Compruebe el sistema operativo y versión del mismo en la máquina accediendo a 
 ```
 $ lsb_release -a
 ```
+3.- Actualice el software (paquetes) de la máquina siguiendo las indicaciones de [esta página](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux) [2] (por ejemplo).
+~~~~
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt autoremove
+~~~~
+-   NO instalar grub
+- 
+    
 
+3.  Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [3] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
+    
+
+-   $ sudo vi /etc/hostname
+    
+-   $ sudo vi /etc/hosts
+    
+
+Para que este cambio tenga efecto, ha de reiniciar la máquina:
+
+-   $ sudo reboot
+    
+
+4.  Consulte la dirección IP de la máquina para establecer conexiones directas a la misma a través de ssh desde casa o desde las salas del Centro de Cálculo de la ESIT. Anote esa dirección IP puesto que la máquina conserva esa dirección IP de forma estable.
+    
+
+-   $ ifconfig -a
+    
+
+6.  Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión.
+    
+7.  También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) [5] de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
+    
+
+-   $ ssh pai
+    
+
+para conectarse a la máquina remota.
+
+6.  Cree una cuenta en [GitHub](https://github.com/) [6], si aún no la tiene. Configure el perfil de su cuenta de modo que incluya una imagen en la que se le reconozca y haga que la cuenta de e-mail asociada sea la dirección institucional.
+    
+7.  Consiga que se pueda subir código desde su máquina PAI hacia su cuenta GitHub sin necesidad de autentificación. Consulte para ello las instrucciones “[Adding a new SSH key to your GitHub account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)” [7] y compruebe que es Ud. capaz de subir (commit) un fichero desde la máquina remota hacia su cuenta GitHub.
+    
+8.  Instale en la máquina remota Node.js y NPM (el gestor de paquetes de Node.js) con el gestor de paquetes de Ubuntu tal como se explica en [este tutorial](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu) [8] y compruebe que Node ha quedado instalado:
+    
+
+-   $ sudo apt install nodejs
+    
+-   $ sudo apt install npm
+    
+-   $ node -v
+    
+
+10.  Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0MjUyMzgsMTk0MzE1OTUzMl19
+eyJoaXN0b3J5IjpbMTE0MzE4NzQ4NiwxOTQzMTU5NTMyXX0=
 -->
