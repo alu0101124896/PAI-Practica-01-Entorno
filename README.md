@@ -18,9 +18,12 @@ Desarrolle secuencialmente cada una de las tareas que se describen en los siguie
 2.- Acceda a la [interfaz web](https://iaas.ull.es/ovirt-engine/) [1] de la plataforma IaaS-ULL y autentifíquese en esa interfaz con sus credenciales (username + password) de la cuenta institucional. Vea el estado de la máquina y arránquela para comenzar a trabajar con ella.
 Tendrá que cambiar el password (que inicialmente es “usuario”) de acceso a esa máquina remota la primera vez que entre en ella. El username será siempre “usuario”.
 Compruebe el sistema operativo y versión del mismo en la máquina accediendo a la consola de la misma:
+```
+$ lsb_release -a
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzU0MzIyMSwxOTQzMTU5NTMyXX0=
+eyJoaXN0b3J5IjpbLTE5Mzc0MjUyMzgsMTk0MzE1OTUzMl19
 -->
