@@ -44,7 +44,9 @@ $ ifconfig -a
 ```
 $ ssh pai
 ```
+
 para conectarse a la máquina remota.
+
  8. Cree una cuenta en [GitHub](https://github.com/) [6], si aún no la tiene. Configure el perfil de su cuenta de modo que incluya una imagen en la que se le reconozca y haga que la cuenta de e-mail asociada sea la dirección institucional.
  9. Consiga que se pueda subir código desde su máquina PAI hacia su cuenta GitHub sin necesidad de autentificación. Consulte para ello las instrucciones “[Adding a new SSH key to your GitHub account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)” [7] y compruebe que es Ud. capaz de subir (commit) un fichero desde la máquina remota hacia su cuenta GitHub.
  10. Instale en la máquina remota Node.js y NPM (el gestor de paquetes de Node.js) con el gestor de paquetes de Ubuntu tal como se explica en [este tutorial](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu) [8] y compruebe que Node ha quedado instalado:
@@ -68,6 +70,6 @@ $ node -v
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDc3MzIzNywtNTU2NTAwMjcxLDE5ND
+eyJoaXN0b3J5IjpbLTM3MzQ2NzA0NywtNTU2NTAwMjcxLDE5ND
 MxNTk1MzJdfQ==
 -->
