@@ -74,9 +74,6 @@ $ node -v
 [10] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODE4NzczMV19
+eyJoaXN0b3J5IjpbMTUyMDMwMjg0MywxMjk4MTg3NzMxXX0=
 -->
