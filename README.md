@@ -60,6 +60,7 @@ $ node -v
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [9] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`. Anote entre sus tareas pendientes estudiar en detalle este tutorial sobre el funcionamiento básico de NPM.
  12. Instale globalmente el paquete readline-sync [10].
  13. Ejecute en modo consola (sin usar un navegador) el código de ejemplo `computePI.js` que hemos estudiado en clase.
+ 14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio 
 
 ## Referencias
 [1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
@@ -82,6 +83,6 @@ $ node -v
 
 [10] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNDU2NzYxLC0xODUyOTgxMDUwLDEzMz
+eyJoaXN0b3J5IjpbMzM0NTQxMDY2LC0xODUyOTgxMDUwLDEzMz
 gwNjM4NTksLTU1NjUwMDI3MSwxOTQzMTU5NTMyXX0=
 -->
