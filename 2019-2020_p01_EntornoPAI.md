@@ -31,7 +31,7 @@ $ sudo reboot
 ```
 $ ifconfig -a
 ```
- 6. Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. Para poder conectarse por ssh con las máquinas virtuales de IaaS ull ha de autentificarse en la página acceso.ull.es. En caso de acceder desde fuera de la red de la ULL ha de hacerlo mediante una conexión vpn. Consulte [esta referencia](https://www.ull.es/servicios/stic/2016/05/10/servicio-de-vpn-de-la-ull/) [] (en el Centro de Cálculo, por ahora no lo necesita) para conectarse a través de vpn.
+ 6. Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [5] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. Para poder conectarse por ssh con las máquinas virtuales de IaaS ull ha de autentificarse en la página acceso.ull.es [6].  En caso de acceder desde fuera de la red de la ULL ha de hacerlo mediante una conexión vpn. Consulte [esta referencia](https://www.ull.es/servicios/stic/2016/05/10/servicio-de-vpn-de-la-ull/) [] (en el Centro de Cálculo, por ahora no lo necesita) para conectarse a través de vpn.
  7. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) [5] de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
 ```
 $ ssh pai
@@ -61,6 +61,8 @@ $ node -v
 
 [4] How do I change the computer name? [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
 
+[6] 
+
 [5] SSH login without password [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
 
 [5] How to Create an SSH Shortcut [https://scotch.io/tutorials/how-to-create-an-ssh-shortcut](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut)
@@ -77,6 +79,6 @@ $ node -v
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUxMzgyMjgsMTUyMDMwMjg0MywxMj
+eyJoaXN0b3J5IjpbLTE2NzkyMjQwMDMsMTUyMDMwMjg0MywxMj
 k4MTg3NzMxXX0=
 -->
