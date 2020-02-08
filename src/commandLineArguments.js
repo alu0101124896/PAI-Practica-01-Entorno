@@ -1,7 +1,8 @@
 /**
    @author       F. de Sande
    @since 30.ene.2020
-   @requires     /home/fsande/doc/clases/PAI/JavaScript/nodejs-examples/node_modules/readline-sync
+   
+   https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/ 
   
    Example of usage of command line arguments
 
