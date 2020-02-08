@@ -50,7 +50,7 @@ $ node -v
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [12] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`. Anote entre sus tareas pendientes estudiar en detalle este tutorial sobre el funcionamiento básico de NPM.
  12. Instale globalmente el paquete [readline-sync](https://www.npmjs.com/package/readline-sync) [13].
  13. Ejecute en modo consola (sin usar un navegador) el código de ejemplo `computePI.js` que hemos estudiado en clase.
- 14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "FizzBuzz" [14].
+ 14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "[FizzBuzz](https://eloquentjavascript.net/02_program_structure.html)" [14].
 
 ## Referencias
 [1] IaaS ULL [https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/)
@@ -79,8 +79,8 @@ $ node -v
 
 [13] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 
-[11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
+[14] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM4NTAyNiwxNTIwMzAyODQzLDEyOT
+eyJoaXN0b3J5IjpbMTM0MjI0MjM5OSwxNTIwMzAyODQzLDEyOT
 gxODc3MzFdfQ==
 -->
