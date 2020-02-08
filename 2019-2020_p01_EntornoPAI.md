@@ -2,7 +2,7 @@
 ‌El objetivo de esta práctica es preparar y configurar el entorno de trabajo que se utilizará en el resto de prácticas de programación de la asignatura.
 
 Desarrolle secuencialmente cada una de las tareas que se describen en los siguientes puntos, pero ocúpese no solo de “ejecutar comandos” sino de estudiar y entender el significado e implicaciones de cada uno de ellos.
- 1. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) y máquina local al PC del centro de cálculo en el que está trabajando.
+ 1. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) [1] y máquina local al PC del centro de cálculo en el que está trabajando.
  2. Acceda a la [interfaz web](https://iaas.ull.es/ovirt-engine/) [1] de la plataforma IaaS-ULL y autentifíquese en esa interfaz con sus credenciales (username + password) de la cuenta institucional. Vea el estado de la máquina y arránquela para comenzar a trabajar con ella.
 Tendrá que cambiar el password (que inicialmente es “usuario”) de acceso a esa máquina remota la primera vez que entre en ella. El username será siempre “usuario”.
 Compruebe el sistema operativo y versión del mismo en la máquina accediendo a la consola de la misma:
@@ -31,9 +31,8 @@ $ sudo reboot
 ```
 $ ifconfig -a
 ```
- 6. Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. Para poder conectarse por ssh con las máquinas virtuales de IaaS ull ha de autentificarse en la página acceso.ull.es. En caso de acceder desde fuera de la red de la ULL ha de hacerlo mediante una conexión vpn. Consulte esta referencia [] (en el Centro de Cálculo, por ahora no lo necesita) para conectarse a través de vpn.
+ 6. Siga [estas instrucciones](http://www.linuxproblem.org/art_9.html) [4] para establecer la configuración de la máquina de modo que se pueda conectar a ella sin necesidad de escribir el password en cada conexión. Para poder conectarse por ssh con las máquinas virtuales de IaaS ull ha de autentificarse en la página acceso.ull.es. En caso de acceder desde fuera de la red de la ULL ha de hacerlo mediante una conexión vpn. Consulte [esta referencia](https://www.ull.es/servicios/stic/2016/05/10/servicio-de-vpn-de-la-ull/) [] (en el Centro de Cálculo, por ahora no lo necesita) para conectarse a través de vpn.
  7. También resulta conveniente utilizar alguno de los métodos (ssh config o alias) que se presentan en [estas instrucciones](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) [5] de modo que se simplifique la conexión con la máquina remota pudiendo escribir algo como:
- 8. prueba [alfa](https://www.ull.es/servicios/stic/2016/05/10/servicio-de-vpn-de-la-ull/). 
 ```
 $ ssh pai
 ```
@@ -76,6 +75,6 @@ $ node -v
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg4MTE2NzYsMTUyMDMwMjg0MywxMj
-k4MTg3NzMxXX0=
+eyJoaXN0b3J5IjpbLTEyNTc2NTYyNiwxNTIwMzAyODQzLDEyOT
+gxODc3MzFdfQ==
 -->
