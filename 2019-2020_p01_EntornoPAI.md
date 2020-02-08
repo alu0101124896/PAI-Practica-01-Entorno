@@ -48,9 +48,9 @@ $ node -v
 ~~~~    
 
  11. Siga las instrucciones de [este tutorial](https://www.sitepoint.com/beginners-guide-node-package-manager/) [12] para actualizar NPM a su última versión y para cambiar la ubicación de los paquetes globales. Proponemos alojar los paquetes globales en el directorio `.node_modules_global`. Anote entre sus tareas pendientes estudiar en detalle este tutorial sobre el funcionamiento básico de NPM.
- 12. Instale globalmente el paquete readline-sync [10].
+ 12. Instale globalmente el paquete [readline-sync](https://www.npmjs.com/package/readline-sync) [13].
  13. Ejecute en modo consola (sin usar un navegador) el código de ejemplo `computePI.js` que hemos estudiado en clase.
- 14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "FizzBuzz" [11].
+ 14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "FizzBuzz" [14].
 
 ## Referencias
 [1] IaaS ULL [https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/)
@@ -75,12 +75,12 @@ $ node -v
 
 [11] How to Install Node.js on Ubuntu 18.04 [https://www.hostinger.com/tutorials/how-to-install-node-ubuntu](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu)
 
-[9] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+[12] NPM: The Node Package Manager. [https://www.sitepoint.com/beginners-guide-node-package-manager/](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 
-[10] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
+[13] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg2NDY5MjMsMTUyMDMwMjg0MywxMj
-k4MTg3NzMxXX0=
+eyJoaXN0b3J5IjpbLTUxMTM4NTAyNiwxNTIwMzAyODQzLDEyOT
+gxODc3MzFdfQ==
 -->
