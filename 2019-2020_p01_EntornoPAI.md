@@ -3,7 +3,7 @@
 
 Desarrolle secuencialmente cada una de las tareas que se describen en los siguientes puntos, pero ocúpese no solo de “ejecutar comandos” sino de estudiar y entender el significado e implicaciones de cada uno de ellos.
  1. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) [1] y máquina local al PC del centro de cálculo en el que está trabajando.
- 2. Acceda a la [interfaz web](https://iaas.ull.es/ovirt-engine/) [1] de la plataforma IaaS-ULL y autentifíquese en esa interfaz con sus credenciales (username + password) de la cuenta institucional. Vea el estado de la máquina y arránquela para comenzar a trabajar con ella.
+ 2. Acceda a la [interfaz web](https://iaas.ull.es/ovirt-engine/) [2] de la plataforma IaaS-ULL y autentifíquese en esa interfaz con sus credenciales (username + password) de la cuenta institucional. Vea el estado de la máquina y arránquela para comenzar a trabajar con ella.
 Tendrá que cambiar el password (que inicialmente es “usuario”) de acceso a esa máquina remota la primera vez que entre en ella. El username será siempre “usuario”.
 Compruebe el sistema operativo y versión del mismo en la máquina accediendo a la consola de la misma:
 ```
@@ -53,7 +53,9 @@ $ node -v
  14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "FizzBuzz" [11].
 
 ## Referencias
-[1] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
+[1] IaaS ULL [https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/)
+
+[2] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 
 [2] How to Update Ubuntu packages [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
 
@@ -75,6 +77,6 @@ $ node -v
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc2NTYyNiwxNTIwMzAyODQzLDEyOT
+eyJoaXN0b3J5IjpbLTQ4OTUwMzg5MSwxNTIwMzAyODQzLDEyOT
 gxODc3MzFdfQ==
 -->
