@@ -9,7 +9,7 @@ Compruebe el sistema operativo y versión del mismo en la máquina accediendo a 
 ```
 $ lsb_release -a
 ```
- 3. Actualice el software (paquetes) de la máquina siguiendo las indicaciones de [esta página](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux) [2] (por ejemplo).
+ 3. Actualice el software (paquetes) de la máquina siguiendo las indicaciones de [esta página](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux) [3] (por ejemplo).
 ~~~~
 $ sudo apt update
 $ sudo apt upgrade
@@ -77,6 +77,6 @@ $ node -v
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTUwMzg5MSwxNTIwMzAyODQzLDEyOT
+eyJoaXN0b3J5IjpbMTAyNTkwOTYxNCwxNTIwMzAyODQzLDEyOT
 gxODc3MzFdfQ==
 -->
