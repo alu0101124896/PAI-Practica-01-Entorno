@@ -1,4 +1,5 @@
 # Práctica 1. El entorno de desarrollo de "Programación de Aplicaciones Interactivas.
+### Factor de ponderación: 5
 ‌El objetivo de esta práctica es preparar y configurar el entorno de trabajo que se utilizará en el resto de prácticas de programación de la asignatura.
 
 Desarrolle secuencialmente cada una de las tareas que se describen en los siguientes puntos, pero ocúpese no solo de “ejecutar comandos” sino de estudiar y entender el significado e implicaciones de cada uno de ellos.
@@ -81,6 +82,6 @@ $ node -v
 
 [14] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjI0MjM5OSwxNTIwMzAyODQzLDEyOT
-gxODc3MzFdfQ==
+eyJoaXN0b3J5IjpbMTU4MzYzMjcxNSwxMzQyMjQyMzk5LDE1Mj
+AzMDI4NDMsMTI5ODE4NzczMV19
 -->
