@@ -17,7 +17,7 @@ $ sudo apt autoremove
 ~~~~
 No instale `grub`
 
- 4. Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [3] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
+ 4. Edite los ficheros necesarios para [cambiar el nombre lógico de la máquina](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name) [4] que le ha sido asignada. Se propone utilizar como nombre algo como Ubuntu-18-PAI-X, aunque puede Ud. usar el nombre que más le guste.
 ~~~~
 $ sudo vi /etc/hostname
 $ sudo vi /etc/hosts
@@ -57,11 +57,11 @@ $ node -v
 
 [2] Ovirt. Open Virtualization Manager. [https://iaas.ull.es/ovirt-engine/sso/login.html](https://iaas.ull.es/ovirt-engine/sso/login.html)
 
-[2] How to Update Ubuntu packages [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
+[3] How to Update Ubuntu packages [https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-update-ubuntu-packages-on-18-04-bionic-beaver-linux)
 
-[3] How do I change the computer name? [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
+[4] How do I change the computer name? [https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name](https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name)
 
-[4] SSH login without password [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
+[5] SSH login without password [http://www.linuxproblem.org/art_9.html](http://www.linuxproblem.org/art_9.html)
 
 [5] How to Create an SSH Shortcut [https://scotch.io/tutorials/how-to-create-an-ssh-shortcut](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut)
 
@@ -77,6 +77,6 @@ $ node -v
 
 [11] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTkwOTYxNCwxNTIwMzAyODQzLDEyOT
-gxODc3MzFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTUxMzgyMjgsMTUyMDMwMjg0MywxMj
+k4MTg3NzMxXX0=
 -->
