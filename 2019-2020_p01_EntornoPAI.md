@@ -59,7 +59,7 @@ $ node -v
  12. Instale globalmente el paquete [readline-sync](https://www.npmjs.com/package/readline-sync) [13].
  13. Ejecute en modo consola (sin usar un navegador) el código de ejemplo `computePI.js` que hemos estudiado en clase.
  14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "[FizzBuzz](https://eloquentjavascript.net/02_program_structure.html)" [14].
- 15. Dedique el tiempo restante a probar diferentes códigos (los que más interés le susciten) de este tutorial 
+ 15. Dedique el tiempo restante a probar diferentes códigos (los que más interés le susciten) de [este tutorial](https://www.w3schools.com/js/default.asp) [15}.
 
 ## Referencias
 [1] IaaS ULL [https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/)
@@ -89,8 +89,10 @@ $ node -v
 [13] readline-sync [https://www.npmjs.com/package/readline-sync](https://www.npmjs.com/package/readline-sync)
 
 [14] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
+
+[15] JavaScript Tutorial [https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE1OTM3NzAsLTE5MDQ2Mjg0OTIsLT
-EzNzY5ODI1OTAsMTU4MzYzMjcxNSwxMzQyMjQyMzk5LDE1MjAz
-MDI4NDMsMTI5ODE4NzczMV19
+eyJoaXN0b3J5IjpbLTU3MTYzMDA2MSwtMTkwNDYyODQ5MiwtMT
+M3Njk4MjU5MCwxNTgzNjMyNzE1LDEzNDIyNDIzOTksMTUyMDMw
+Mjg0MywxMjk4MTg3NzMxXX0=
 -->
