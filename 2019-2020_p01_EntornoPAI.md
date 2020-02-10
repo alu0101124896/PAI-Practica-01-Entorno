@@ -2,7 +2,7 @@
 ### Factor de ponderación: 5
 ‌El objetivo de esta práctica es preparar y configurar el entorno de trabajo que se utilizará en el resto de prácticas de programación de la asignatura.
 
-Deje constancia en ficheros locales de la máquina IaaS-ULL en la que trabaja de todos los cambios que realice. Estos ficheros ha de subirlos al repositorio que ha de entregar con la práctica. Así, p. ej. si edita Ud. el fichero `/.ssh/config` deje una copia de ese fichero el su directorio de trabajo src y nombre ese fichero de modo que se sepa de qué se trata (use por ejemplo el nombre `ssh-config.txt` para ese fichero que ha de entregar.
+Deje constancia en ficheros locales de la máquina IaaS-ULL en la que trabaja de todos los cambios que realice. Estos ficheros ha de subirlos al repositorio que ha de entregar con la práctica. Así, p. ej. si edita Ud. el fichero `/.ssh/config` deje una copia de ese fichero el su directorio de trabajo src y nombre ese fichero de modo que se sepa de qué se trata (use por ejemplo el nombre `ssh-config.txt` para ese fichero que ha de entregar. Recuerde dejar en el directorio src de su repositorio **copia de todos** los ficheros que edite en el sistema.
 
 Desarrolle en secuencia cada una de las tareas que se describen en los siguientes puntos, pero ocúpese no solo de “ejecutar comandos” sino de estudiar y entender el significado e implicaciones de cada uno de ellos.
  1. Inicie sesión en Linux en alguno de los PCs de la sala del Centro de Cálculo. En este texto denominaremos máquina remota a la máquina virtual (VM) del [IaaS-ULL](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/) [1] y máquina local al PC del centro de cálculo en el que está trabajando.
@@ -84,6 +84,6 @@ $ node -v
 
 [14] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4MzI4Nzc2LDE1ODM2MzI3MTUsMTM0Mj
-I0MjM5OSwxNTIwMzAyODQzLDEyOTgxODc3MzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzY5ODI1OTAsMTU4MzYzMjcxNSwxMz
+QyMjQyMzk5LDE1MjAzMDI4NDMsMTI5ODE4NzczMV19
 -->
