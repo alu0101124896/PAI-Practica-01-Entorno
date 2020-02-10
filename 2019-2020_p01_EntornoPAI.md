@@ -44,7 +44,10 @@ para conectarse a la máquina remota.
  8. Cree una cuenta en [GitHub](https://github.com/) [9], si aún no la tiene. Configure el perfil de su cuenta de modo que incluya una imagen en la que se le reconozca y haga que la cuenta de e-mail asociada sea la dirección institucional.
  9. Consiga que se pueda subir código desde su máquina PAI hacia su cuenta GitHub sin necesidad de autentificación. Consulte para ello las instrucciones “[Adding a new SSH key to your GitHub account](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)” [10] y compruebe que es Ud. capaz de subir (commit) un fichero desde la máquina remota hacia su cuenta GitHub.
  10. Clone en su máquina IaaS el repositorio con el código que se ha entregado (git classroom) con el enunciado de la práctica:
-git clone  
+
+    git clone git@github.com:ULL-ESIT-INF-PAI-2019-2020/2019-2020-PAI-P01-Entorno-XXX.git
+Recuerde colocar en el directorio `src` de ese repositorio una copia de todos los ficheros que haya modificado.
+ 
  12. Instale en la máquina remota Node.js y NPM (el gestor de paquetes de Node.js) con el gestor de paquetes de Ubuntu tal como se explica en [este tutorial](https://www.hostinger.com/tutorials/how-to-install-node-ubuntu) [11] y compruebe que Node ha quedado instalado:
 ~~~~
 $ sudo apt install nodejs
@@ -86,7 +89,7 @@ $ node -v
 
 [14] FizzBuzz [https://eloquentjavascript.net/02_program_structure.html](https://eloquentjavascript.net/02_program_structure.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczNDY4NjksLTEzNzY5ODI1OTAsMT
+eyJoaXN0b3J5IjpbLTE5MDQ2Mjg0OTIsLTEzNzY5ODI1OTAsMT
 U4MzYzMjcxNSwxMzQyMjQyMzk5LDE1MjAzMDI4NDMsMTI5ODE4
 NzczMV19
 -->
