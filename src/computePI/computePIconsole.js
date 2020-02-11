@@ -7,7 +7,7 @@
  * Uses readlineSync and console.log for input/output
  */
 
-const readlineSync = require('/home/fsande/.node_modules_global/lib/node_modules/readline-sync/');
+const readlineSync = require('/home/usuario/.node_modules_global/lib/node_modules/readline-sync/');
 
 let steps = 0;
 function calculatePI() {
