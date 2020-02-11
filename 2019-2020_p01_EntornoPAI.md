@@ -61,8 +61,6 @@ $ node -v
  14. Codifique y compruebe el funcionamiento del programa que resuelve el ejercicio "[FizzBuzz](https://eloquentjavascript.net/02_program_structure.html)" [14].
  15. Dedique el tiempo restante a probar diferentes códigos (los que más interés le susciten) de [este tutorial](https://www.w3schools.com/js/default.asp) [15].
 
-Prueba
-
 ## Referencias
 [1] IaaS ULL [https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/](https://www.ull.es/servicios/stic/2015/10/27/nuevo-servicio-iaas/)
 
@@ -94,7 +92,7 @@ Prueba
 
 [15] JavaScript Tutorial [https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDExNjQ2LC01NzE2MzAwNjEsLTE5MD
-Q2Mjg0OTIsLTEzNzY5ODI1OTAsMTU4MzYzMjcxNSwxMzQyMjQy
-Mzk5LDE1MjAzMDI4NDMsMTI5ODE4NzczMV19
+eyJoaXN0b3J5IjpbMTc4MTE1MzI2NywtNTcxNjMwMDYxLC0xOT
+A0NjI4NDkyLC0xMzc2OTgyNTkwLDE1ODM2MzI3MTUsMTM0MjI0
+MjM5OSwxNTIwMzAyODQzLDEyOTgxODc3MzFdfQ==
 -->
